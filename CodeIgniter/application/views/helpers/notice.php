@@ -1,0 +1,1 @@
+<div class="<?php echo $result; ?> w3-container"><?php if(isset($message)) echo $message ?></div>
